@@ -40,6 +40,16 @@ This section outlines the key development tasks and their current status:
 
 ✅ 6. Conduct quantitative and qualitative evaluation of system performance on benchmark scenarios.
 
+🏗️ Architecture Diagram
+
+This diagram illustrates the high-level architecture of the IntelTrace system, showing the main components and how they interact.
+
+
+🔄 Workflow Diagram
+
+This diagram outlines the typical operational workflow within the IntelTrace system, from query submission to result visualization.
+
+
 💻 Usage 
 
 Instructions on how to run the IntelTrace system and submit queries will be updated here. The general workflow will involve:
@@ -55,14 +65,14 @@ Reviewing the generated segmentation masks and threat identifications.
 
 🧑‍💻 Contributors
 
-G. Venkata Karthik
+G. Venkata Karthik - https://github.com/KarthikGudipati
 
-V. Sachin
+V. Sachin - https://github.com/vsachin26
 
-V. Mohith Sai
+V. Mohith Sai - https://github.com/Mohithsai2006
 
-Ch. Sai Pranav
+Ch. Sai Pranav - https://github.com/cholletiSaiPranav
 
-Y. Akshith Reddy
+Y. Akshith Reddy - https://github.com/Akshith-code
 
-M. Rushikesh
+M. Rushikesh - https://github.com/rushi-debug

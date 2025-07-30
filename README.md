@@ -44,7 +44,7 @@ This section outlines the key development tasks and their current status:
 
 This diagram illustrates the high-level architecture of the IntelTrace system, showing the main components and how they interact.
 
-![WhatsApp Image 2025-07-29 at 09 50 19_b813f138](https://github.com/user-attachments/assets/9a4ee211-de99-4206-a5d5-6709992c1fff)
+![WhatsApp Image 2025-07-30 at 11 25 51_702a3a5d](https://github.com/user-attachments/assets/f84126db-d649-4672-814e-f08558d766e6)
 
 
 
@@ -52,7 +52,8 @@ This diagram illustrates the high-level architecture of the IntelTrace system, s
 
 This diagram outlines the typical operational workflow within the IntelTrace system, from query submission to result visualization.
 
-![WhatsApp Image 2025-07-29 at 12 42 57_0412b98d](https://github.com/user-attachments/assets/094c425b-f264-47fe-a929-5f004981504d)
+<img width="574" height="521" alt="image" src="https://github.com/user-attachments/assets/27c45295-7c13-460d-850f-e72bb1046889" />
+
 
 
 
